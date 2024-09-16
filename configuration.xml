@@ -468,6 +468,7 @@
       <configSetting altId="p113.gpio_mode.gpio_mode_in" configurationId="p113.gpio_mode"/>
       <configSetting altId="p206.cec.cecio" configurationId="p206"/>
       <configSetting altId="p206.gpio_mode.gpio_mode_peripheral" configurationId="p206.gpio_mode"/>
+      <configSetting altId="p206.gpio_otype.gpio_otype_n_ch_od" configurationId="p206.gpio_otype"/>
       <configSetting altId="p207.output.low" configurationId="p207"/>
       <configSetting altId="p207.gpio_speed.gpio_speed_h" configurationId="p207.gpio_drivecapacity"/>
       <configSetting altId="p207.gpio_mode.gpio_mode_out.low" configurationId="p207.gpio_mode"/>
